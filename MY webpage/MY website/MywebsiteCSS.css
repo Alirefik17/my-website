@@ -1,0 +1,25 @@
+
+
+body {
+    background-image: url("glacier.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: 1600px 750px;
+}
+
+ h2 {
+   color: yellow
+ }
+
+div {
+  color: yellow;
+}
+
+
+body {
+  color: yellow;
+}
+a {
+  color: yellow;
+}

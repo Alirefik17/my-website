@@ -1,0 +1,21 @@
+img {
+  float: middle;
+  margin: auto;
+}
+
+ div {
+   background-color: white;
+ }
+
+
+
+img {
+  width: 35%;
+  height:35%;
+}
+
+h8 {
+    text-align: center;
+}
+
+body {background-color: red;}
